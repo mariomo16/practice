@@ -6,7 +6,7 @@
  * @version 0.0.2
  * @created 2025-11-01
  * @modified 2025-11-01
- * @repository https://github.com/mariomo16/practice/tree/main/javascript/form-validator
+ * @see https://github.com/mariomo16/practice/tree/main/javascript/form-validator
  *
  * Proyecto de práctica
  */
